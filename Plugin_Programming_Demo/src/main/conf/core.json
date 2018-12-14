@@ -1,0 +1,10 @@
+{
+  "plugins":[
+    {
+      "pluginName":"mysqlJobManager",
+      "pluginClass":"com.xia.pluginiml.MysqlJobManager"
+    }
+  ]
+}
+
+

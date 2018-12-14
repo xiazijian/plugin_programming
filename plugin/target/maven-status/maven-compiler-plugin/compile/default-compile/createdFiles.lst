@@ -1,0 +1,3 @@
+com/xia/plugins/AbstractPlugin.class
+com/xia/plugins/JobManager.class
+com/xia/plugins/Pluginable.class
